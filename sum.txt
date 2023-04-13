@@ -2,4 +2,4 @@ int a = 4
 in b = 6
  
 
-sum = a+b
+sum = b+a
